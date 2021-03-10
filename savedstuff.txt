@@ -1,0 +1,7 @@
+<nav class="navbar">
+            <a href="index.html">Home</a>
+            <a href="programming.html">Programming</a>
+            <a href="projects.html">Projects</a>
+            <a href="troll.html">A random website</a>
+            <a href="mailto:cuberlouis@gmail.com">Contact me</a>
+        </nav>
